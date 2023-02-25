@@ -65,6 +65,7 @@ export default function IndexPage() {
         <div className="w-[30px]">
           <AspectRatio ratio={1 / 1}>
             <Image
+            alt="apple-fitness-workout"
             src="/images/fitness.gif"
             fill
             className="rounded-3xl object-cover"
